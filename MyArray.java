@@ -4,7 +4,7 @@
 
 import java.util.Arrays;
 
-public class MainApplication {
+public class MyArray {
     void myArray() {
         int large = 0;
         int MYArray[] = {2, 15, 1, 100, 70};
